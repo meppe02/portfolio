@@ -154,7 +154,7 @@ export default function Home() {
               }
               else{
                 return(
-                <div className="noVideo" key={index}>
+                <div className="noVideo">
                   <h1>
                     In progress...
                   </h1>
