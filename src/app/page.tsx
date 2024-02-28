@@ -80,8 +80,7 @@ export default function Home() {
       <div className="intro">
         <div className="introText">
           <h3>
-            Hello and welcome to my portfolio. My name is Martin Obasi and I'm currently studying physics at
-            Chalmers University of Technology. The plan is to publish all my new project on here as well as some old ones i did while learning to code.
+            Hello and welcome to my portfolio. My name is Martin Obasi and I'm currently studying physics at Chalmers University of Technology. The plan is to publish all my new project on here as well as some old ones i did while learning to code.
           </h3>
         </div>
       </div>
