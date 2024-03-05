@@ -22,7 +22,7 @@ let projects: Project[] = [
   {
     id:1,
     title: "Double Pendulum",
-    image_url: "pendelum/main.png",
+    image_url: "/pendelum/main.png",
     description:
       "A program I wrote for simulating the motion of a simple double pendulum in Python.",
     status: true,
