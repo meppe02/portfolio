@@ -114,7 +114,7 @@ export default function Home() {
 
                 <div className="status">
                   <Image
-                    src={proj.status ? "/check.png" : "/warning.png"}
+                    src={proj.status ? "check.png" : "warning.png"}
                     alt="Status Icon"
                     width={20}
                     height={20}
